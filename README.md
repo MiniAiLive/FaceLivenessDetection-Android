@@ -12,6 +12,10 @@ You can download release APK here.
 https://drive.google.com/file/d/1LRGs1xVMFDdFcYKS05eB3rO3TNxmpt2i/view?usp=sharing
 ```
 
+> **Note**
+>
+> SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
+
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/a5d1304a-d5f5-4af2-9ec6-a6f4e59674af_small.jpg" alt="Test4" width="150" />
 <img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/07a2c05b-2ed2-43e2-b58f-4799829b6ceb_small.jpg" alt="Test5" width="150" />
