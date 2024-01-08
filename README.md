@@ -7,14 +7,18 @@
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
 Upgrade your Android app with MiniAiLive's Face Liveness Detection!   With our advanced computer vision techniques, you can now enhance security and accuracy on your Android platform. Check out our latest repository containing a demonstration of 2D &amp; 3D face liveness detection capabilities.   Try it out today!
 
-You can download release APK here. 
-```
-https://drive.google.com/file/d/1LRGs1xVMFDdFcYKS05eB3rO3TNxmpt2i/view?usp=sharing
-```
 
 > **Note**
 >
-> SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
+> SDK is fully on-premise, processing all happens on hosting server and no data leaves server..
+
+<br></br>
+
+## Enjoy APP on Google Play
+<a href="https://play.google.com/store/apps/details?id=com.miniai.liveness&hl=en-HK" target="_blank">
+  <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
+</a>
+
 
 ## Test Result
 <img src="https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-Android/assets/106538966/a5d1304a-d5f5-4af2-9ec6-a6f4e59674af_small.jpg" alt="Test4" width="150" />
