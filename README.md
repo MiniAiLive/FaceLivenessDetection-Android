@@ -31,6 +31,35 @@ Upgrade your Android app with MiniAiLive's 3D Passive Face Liveness Detection!  
 
 https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-AndroidSDK/assets/153516004/99ae5b73-cb36-47d9-ae38-d91c031c2953
 
+## Request license
+Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+```java 
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the original repository.
+```
+
+## Try Online Demo
+Please visit our Face API Web Demo here. https://minivision.live
+
+## Related Product
+No | Project | Feature
+---|---|---|
+1 | [MiniAI-Face-Recognition-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-AndroidSDK) | Face Matching, 3D Face Passive Liveness
+2 | [MiniAI-Face-Recognition-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-iOS-SDK) | Face Matching, 3D Face Passive Liveness
+3 | [MiniAI-Face-Recognition-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-ServerSDK) | Face Matching, 3D Face Passive Liveness
+4 | [MiniAI-Face-Recognition-WindowsSDK](https://github.com/MiniAiLive/MiniAI-Face-Recognition-WindowsSDK) | Face Matching, 3D Face Passive Liveness
+5 | [MiniAI-Face-LivenessDetection-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-AndroidSDK) | 3D Face Passive Liveness
+6 | [MiniAI-Face-LivenessDetection-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-iOS-SDK) | 3D Face Passive Liveness
+7 | [MiniAI-Face-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-ServerSDK) | 3D Face Passive Liveness
+8 | [MiniAI-Face-Matching-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK) | 1:1 Face Matching
+9 | [MiniAI-Face-Matching-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-iOS-SDK) | 1:1 Face Matching
+10 | [MiniAI-Face-Attributes-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Attributes-AndroidSDK) | Face Attributes
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
