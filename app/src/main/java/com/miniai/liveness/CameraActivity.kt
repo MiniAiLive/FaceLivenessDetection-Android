@@ -147,4 +147,8 @@ class CameraActivity : AppCompatActivity(), FrameInferface {
     override fun onVerify(msg: String) {
 
     }
+     override fun onBackPressed() {
+        finishAffinity()
+        super.onBackPressed()
+    }
 }
